@@ -3,6 +3,6 @@ public class Backend {
         Solve();
     }
     public static void Solve(){
-        return "Backdend";
+        System.out.println("Backend");
     }
 }
